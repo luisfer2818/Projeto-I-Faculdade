@@ -1,4 +1,4 @@
-# projeto I faculdade Projeção
+# Projeto I faculdade Projeção
 
 ~~~
 Sistema de promoção de jogos feitos na mão com os links, 
